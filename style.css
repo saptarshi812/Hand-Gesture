@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(139, 0, 53);
+}
+h1{
+    background-color: dodgerblue;
+    text-align: center;
+    color:aliceblue;
+    font-size:20px;
+    padding-left:20px;
+}
+.capture {
+    margin-top: 400px;
+    margin-left: 120px;
+}
+.predict{
+    margin-left: 900px;
+}
+#webcam{
+    background-color: black;
+}
